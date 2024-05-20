@@ -10,3 +10,4 @@
 
 
 # 1.2 视频演示
+https://github.com/SoCisRight/PygameProjects/assets/145830809/145c737f-7cba-4c82-954f-2ff0350426c7
